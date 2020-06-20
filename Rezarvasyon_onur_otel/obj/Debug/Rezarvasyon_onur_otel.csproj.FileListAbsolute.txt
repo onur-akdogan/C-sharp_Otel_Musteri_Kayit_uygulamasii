@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\C#\Rezarvasyon_onur_otel\Rezarvasyon_onur_otel\bin\Debug\Rezarvasyon_onur_otel.exe.config
+C:\Users\ASUS\Desktop\C#\Rezarvasyon_onur_otel\Rezarvasyon_onur_otel\bin\Debug\Rezarvasyon_onur_otel.exe
+C:\Users\ASUS\Desktop\C#\Rezarvasyon_onur_otel\Rezarvasyon_onur_otel\bin\Debug\Rezarvasyon_onur_otel.pdb
+C:\Users\ASUS\Desktop\C#\Rezarvasyon_onur_otel\Rezarvasyon_onur_otel\obj\Debug\Rezarvasyon_onur_otel.Form1.resources
+C:\Users\ASUS\Desktop\C#\Rezarvasyon_onur_otel\Rezarvasyon_onur_otel\obj\Debug\Rezarvasyon_onur_otel.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C#\Rezarvasyon_onur_otel\Rezarvasyon_onur_otel\obj\Debug\Rezarvasyon_onur_otel.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\C#\Rezarvasyon_onur_otel\Rezarvasyon_onur_otel\obj\Debug\Rezarvasyon_onur_otel.exe
+C:\Users\ASUS\Desktop\C#\Rezarvasyon_onur_otel\Rezarvasyon_onur_otel\obj\Debug\Rezarvasyon_onur_otel.pdb
+C:\Users\ASUS\Desktop\C#\Rezarvasyon_onur_otel\Rezarvasyon_onur_otel\obj\Debug\Rezarvasyon_onur_otel.csprojResolveAssemblyReference.cache
